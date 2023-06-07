@@ -1,0 +1,2 @@
+En la carpeta `clase19_fetch` aplicamos la construcción de queryStrings por hipervínculo.   
+En la carpeta `clase21_validacionFormsYRepaso` vimos como validar formularios y como trabajar con una querystring construída por formulario.
